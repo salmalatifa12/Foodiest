@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Foodiest</string>
+    <string name="breakfast">Breakfast</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="dessert">Dessert</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_calories">Calories</string>
+    <string name="txt_300_kal">300 kal</string>
+    <string name="txt_carbo">carbo</string>
+    <string name="txt_protein">protein</string>
+    <string name="txt_description">Description</string>
+    <string name="txt_resep">Resep</string>
+    <string name="txt_ingredients">Ingredients</string>
+    <string name="txt_instruction">instruction</string>
+</resources>
